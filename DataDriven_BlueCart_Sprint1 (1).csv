@@ -1,0 +1,301 @@
+Order_ID,Customer_ID,Order_Date,Total_Sales,Customer_Name,Email,State
+ORD1000,CUST195,,120.0,Alice Green,Not Available,Washington
+ORD1001,UNKNOWN,,120.0,,,
+ORD1002,UNKNOWN,,150.0,,,
+ORD1003,CUST184,,85.0,Bob White,Not Available,Ca
+ORD1004,CUST168,2025-02-12,120.0,Charlie Tan,Not Available,Ca
+ORD1005,CUST028,,200.0,Charlie Tan,user27@email.com,Oregon
+ORD1006,CUST096,,200.0,Alice Green,Not Available,Oregon
+ORD1007,CUST041,2025-02-08,200.0,Fred Stone,Not Available,Washington
+ORD1008,UNKNOWN,,85.0,,,
+ORD1009,CUST085,,85.0,Charlie Tan,user84@email.com,Oregon
+ORD1010,CUST010,,99.99,Eve Gray,user9@email.com,Oregon
+ORD1011,CUST078,,120.0,Eve Gray,Not Available,Oregon
+ORD1012,CUST198,,99.99,Fred Stone,Not Available,Washington
+ORD1013,CUST047,,85.0,Dana Blue,user46@email.com,Washington
+ORD1014,UNKNOWN,,120.0,,,
+ORD1015,CUST155,,120.0,Fred Stone,Not Available,California
+ORD1016,CUST905,,150.0,,,
+ORD1017,UNKNOWN,,120.0,,,
+ORD1018,CUST089,,120.0,Charlie Tan,user88@email.com,Washington
+ORD1019,UNKNOWN,,200.0,,,
+ORD1020,CUST191,,120.0,Charlie Tan,Not Available,Washington
+ORD1021,CUST199,,85.0,Fred Stone,Not Available,Ca
+ORD1022,CUST110,,120.0,Eve Gray,Not Available,Oregon
+ORD1023,UNKNOWN,,99.99,,,
+ORD1024,CUST140,,200.0,Charlie Tan,user139@email.com,Ca
+ORD1025,UNKNOWN,2025-02-07,200.0,,,
+ORD1026,CUST027,2025-01-02,120.0,Fred Stone,Not Available,Washington
+ORD1027,CUST055,,120.0,Alice Green,Not Available,Ca
+ORD1028,UNKNOWN,,150.0,,,
+ORD1029,CUST194,,120.0,Alice Green,Not Available,Oregon
+ORD1030,CUST118,,120.0,Dana Blue,user117@email.com,Oregon
+ORD1031,CUST107,,120.0,Bob White,user106@email.com,Oregon
+ORD1032,CUST148,,120.0,Eve Gray,Not Available,Washington
+ORD1033,CUST010,,200.0,Eve Gray,user9@email.com,Oregon
+ORD1034,CUST119,,150.0,Charlie Tan,user118@email.com,Ca
+ORD1035,UNKNOWN,,150.0,,,
+ORD1036,UNKNOWN,,120.0,,,
+ORD1037,CUST101,,120.0,Bob White,Not Available,Washington
+ORD1038,CUST169,,99.99,Charlie Tan,user168@email.com,Oregon
+ORD1039,UNKNOWN,,150.0,,,
+ORD1040,CUST027,,200.0,Fred Stone,Not Available,Washington
+ORD1041,UNKNOWN,,200.0,,,
+ORD1042,CUST192,,200.0,Dana Blue,Not Available,Oregon
+ORD1043,CUST013,2025-02-16,99.99,Dana Blue,user12@email.com,Washington
+ORD1044,CUST902,,99.99,,,
+ORD1045,CUST123,,120.0,Charlie Tan,Not Available,California
+ORD1046,CUST135,,85.0,Eve Gray,Not Available,Washington
+ORD1047,CUST044,,150.0,Fred Stone,Not Available,Or
+ORD1048,CUST020,,200.0,Bob White,Not Available,California
+ORD1049,CUST177,,120.0,Fred Stone,user176@email.com,California
+ORD1050,UNKNOWN,,120.0,,,
+ORD1051,CUST045,,120.0,Bob White,user44@email.com,Oregon
+ORD1052,CUST123,,120.0,Charlie Tan,Not Available,California
+ORD1053,CUST127,,85.0,Dana Blue,user126@email.com,Oregon
+ORD1054,CUST089,,150.0,Charlie Tan,user88@email.com,Washington
+ORD1055,CUST119,,120.0,Charlie Tan,user118@email.com,Ca
+ORD1056,CUST104,2025-01-18,120.0,Dana Blue,user103@email.com,Or
+ORD1057,CUST184,2025-01-04,120.0,Bob White,Not Available,Ca
+ORD1058,CUST038,,150.0,Fred Stone,user37@email.com,Oregon
+ORD1059,CUST140,,150.0,Charlie Tan,user139@email.com,Ca
+ORD1060,CUST045,,150.0,Bob White,user44@email.com,Oregon
+ORD1061,CUST083,,85.0,Alice Green,user82@email.com,Or
+ORD1062,CUST135,2025-02-27,120.0,Eve Gray,Not Available,Washington
+ORD1063,CUST056,,150.0,Alice Green,Not Available,Washington
+ORD1064,UNKNOWN,,150.0,,,
+ORD1065,CUST062,,85.0,Eve Gray,Not Available,Or
+ORD1066,CUST149,,150.0,Bob White,Not Available,Washington
+ORD1067,CUST012,,99.99,Dana Blue,Not Available,Or
+ORD1068,UNKNOWN,,120.0,,,
+ORD1069,UNKNOWN,,200.0,,,
+ORD1070,UNKNOWN,,200.0,,,
+ORD1071,CUST091,,120.0,Alice Green,Not Available,Oregon
+ORD1072,CUST200,,99.99,Dana Blue,user199@email.com,California
+ORD1073,UNKNOWN,,120.0,,,
+ORD1074,CUST199,,99.99,Fred Stone,Not Available,Ca
+ORD1075,CUST012,,150.0,Dana Blue,Not Available,Or
+ORD1076,CUST041,2025-01-14,120.0,Fred Stone,Not Available,Washington
+ORD1077,UNKNOWN,,99.99,,,
+ORD1078,CUST047,,150.0,Dana Blue,user46@email.com,Washington
+ORD1079,CUST184,,99.99,Bob White,Not Available,Ca
+ORD1080,CUST174,,99.99,Dana Blue,user173@email.com,Or
+ORD1081,CUST174,,85.0,Dana Blue,user173@email.com,Or
+ORD1082,CUST075,,99.99,Alice Green,Not Available,California
+ORD1083,UNKNOWN,,200.0,,,
+ORD1084,CUST906,,120.0,,,
+ORD1085,CUST166,,99.99,Eve Gray,Not Available,Washington
+ORD1086,CUST138,,120.0,Fred Stone,Not Available,Or
+ORD1087,CUST125,2025-02-23,150.0,Alice Green,user124@email.com,Washington
+ORD1088,CUST198,,150.0,Fred Stone,Not Available,Washington
+ORD1089,UNKNOWN,,200.0,,,
+ORD1090,UNKNOWN,2025-01-26,150.0,,,
+ORD1091,UNKNOWN,,120.0,,,
+ORD1092,CUST132,,85.0,Fred Stone,user131@email.com,Ca
+ORD1093,CUST002,,150.0,Fred Stone,Not Available,Washington
+ORD1094,CUST162,,120.0,Fred Stone,Not Available,Washington
+ORD1095,UNKNOWN,,150.0,,,
+ORD1096,CUST056,,200.0,Alice Green,Not Available,Washington
+ORD1097,CUST133,2025-02-17,120.0,Charlie Tan,user132@email.com,California
+ORD1098,CUST185,,120.0,Charlie Tan,user184@email.com,Oregon
+ORD1099,UNKNOWN,,99.99,,,
+ORD1100,CUST023,,150.0,Fred Stone,Not Available,Washington
+ORD1101,UNKNOWN,,120.0,,,
+ORD1102,CUST020,,200.0,Bob White,Not Available,California
+ORD1103,UNKNOWN,,120.0,,,
+ORD1104,CUST019,,99.99,Eve Gray,Not Available,Ca
+ORD1105,CUST110,2025-01-21,120.0,Eve Gray,Not Available,Oregon
+ORD1106,CUST048,,200.0,Bob White,user47@email.com,Washington
+ORD1107,CUST125,2025-02-14,200.0,Alice Green,user124@email.com,Washington
+ORD1108,CUST140,2025-01-18,120.0,Charlie Tan,user139@email.com,Ca
+ORD1109,CUST038,,150.0,Fred Stone,user37@email.com,Oregon
+ORD1110,CUST127,,200.0,Dana Blue,user126@email.com,Oregon
+ORD1111,CUST047,,120.0,Dana Blue,user46@email.com,Washington
+ORD1112,CUST097,,200.0,Bob White,user96@email.com,Oregon
+ORD1113,CUST178,2025-01-25,200.0,Charlie Tan,user177@email.com,Ca
+ORD1114,CUST167,,150.0,Eve Gray,Not Available,California
+ORD1115,UNKNOWN,,120.0,,,
+ORD1116,CUST014,,120.0,Charlie Tan,user13@email.com,Washington
+ORD1117,CUST089,,99.99,Charlie Tan,user88@email.com,Washington
+ORD1118,UNKNOWN,2025-02-10,120.0,,,
+ORD1119,CUST049,,85.0,Dana Blue,Not Available,Oregon
+ORD1120,CUST002,,120.0,Fred Stone,Not Available,Washington
+ORD1121,UNKNOWN,,85.0,,,
+ORD1122,CUST155,2025-01-01,150.0,Fred Stone,Not Available,California
+ORD1123,CUST128,2025-01-25,200.0,Bob White,user127@email.com,Oregon
+ORD1124,UNKNOWN,,85.0,,,
+ORD1125,CUST047,,200.0,Dana Blue,user46@email.com,Washington
+ORD1126,CUST146,,85.0,Dana Blue,Not Available,California
+ORD1127,CUST109,,200.0,Alice Green,user108@email.com,Oregon
+ORD1128,CUST089,2025-02-13,85.0,Charlie Tan,user88@email.com,Washington
+ORD1129,CUST002,,120.0,Fred Stone,Not Available,Washington
+ORD1130,CUST013,,200.0,Dana Blue,user12@email.com,Washington
+ORD1131,CUST175,,85.0,Eve Gray,Not Available,Washington
+ORD1132,CUST178,,120.0,Charlie Tan,user177@email.com,Ca
+ORD1133,UNKNOWN,,120.0,,,
+ORD1134,CUST107,,120.0,Bob White,user106@email.com,Oregon
+ORD1135,CUST166,,200.0,Eve Gray,Not Available,Washington
+ORD1136,CUST119,,99.99,Charlie Tan,user118@email.com,Ca
+ORD1137,CUST027,,120.0,Fred Stone,Not Available,Washington
+ORD1138,CUST021,,200.0,Fred Stone,Not Available,Washington
+ORD1139,CUST059,,120.0,Charlie Tan,Not Available,Oregon
+ORD1140,UNKNOWN,2025-02-11,99.99,,,
+ORD1141,CUST177,2025-02-08,99.99,Fred Stone,user176@email.com,California
+ORD1142,CUST159,,200.0,Alice Green,Not Available,Ca
+ORD1143,CUST170,,150.0,Alice Green,user169@email.com,Oregon
+ORD1144,CUST177,,85.0,Fred Stone,user176@email.com,California
+ORD1145,UNKNOWN,,120.0,,,
+ORD1146,CUST040,,85.0,Dana Blue,user39@email.com,Ca
+ORD1147,CUST045,,150.0,Bob White,user44@email.com,Oregon
+ORD1148,CUST017,,99.99,Bob White,user16@email.com,Oregon
+ORD1149,CUST155,,120.0,Fred Stone,Not Available,California
+ORD1150,CUST175,,85.0,Eve Gray,Not Available,Washington
+ORD1151,UNKNOWN,,120.0,,,
+ORD1152,CUST087,,120.0,Eve Gray,Not Available,Oregon
+ORD1153,CUST127,,85.0,Dana Blue,user126@email.com,Oregon
+ORD1154,CUST907,,120.0,,,
+ORD1155,UNKNOWN,,120.0,,,
+ORD1156,CUST184,,99.99,Bob White,Not Available,Ca
+ORD1157,CUST170,,99.99,Alice Green,user169@email.com,Oregon
+ORD1158,CUST197,,99.99,Bob White,user196@email.com,Washington
+ORD1159,UNKNOWN,,120.0,,,
+ORD1160,CUST161,2025-01-27,120.0,Charlie Tan,user160@email.com,Washington
+ORD1161,CUST175,,120.0,Eve Gray,Not Available,Washington
+ORD1162,UNKNOWN,,99.99,,,
+ORD1163,CUST004,,120.0,Bob White,Not Available,Washington
+ORD1164,UNKNOWN,,200.0,,,
+ORD1165,CUST144,2025-02-16,150.0,Fred Stone,Not Available,Washington
+ORD1166,CUST067,,150.0,Bob White,user66@email.com,Oregon
+ORD1167,CUST184,,120.0,Bob White,Not Available,Ca
+ORD1168,CUST161,,120.0,Charlie Tan,user160@email.com,Washington
+ORD1169,CUST170,,99.99,Alice Green,user169@email.com,Oregon
+ORD1170,CUST161,,150.0,Charlie Tan,user160@email.com,Washington
+ORD1171,CUST047,,99.99,Dana Blue,user46@email.com,Washington
+ORD1172,UNKNOWN,,99.99,,,
+ORD1173,CUST902,2025-02-08,120.0,,,
+ORD1174,UNKNOWN,2025-01-27,200.0,,,
+ORD1175,CUST019,,120.0,Eve Gray,Not Available,Ca
+ORD1176,UNKNOWN,,200.0,,,
+ORD1177,UNKNOWN,,120.0,,,
+ORD1178,CUST172,,200.0,Charlie Tan,Not Available,Washington
+ORD1179,CUST170,,200.0,Alice Green,user169@email.com,Oregon
+ORD1180,CUST042,,120.0,Bob White,Not Available,Washington
+ORD1181,CUST162,,120.0,Fred Stone,Not Available,Washington
+ORD1182,CUST092,,120.0,Dana Blue,user91@email.com,Oregon
+ORD1183,UNKNOWN,,150.0,,,
+ORD1184,CUST058,,120.0,Alice Green,Not Available,California
+ORD1185,CUST159,,99.99,Alice Green,Not Available,Ca
+ORD1186,CUST042,,120.0,Bob White,Not Available,Washington
+ORD1187,CUST907,,99.99,,,
+ORD1188,CUST034,,200.0,Charlie Tan,Not Available,California
+ORD1189,CUST066,2025-01-30,150.0,Fred Stone,Not Available,Or
+ORD1190,CUST170,,120.0,Alice Green,user169@email.com,Oregon
+ORD1191,CUST194,,99.99,Alice Green,Not Available,Oregon
+ORD1192,CUST050,2025-02-08,120.0,Dana Blue,user49@email.com,Washington
+ORD1193,CUST130,2025-02-14,120.0,Fred Stone,Not Available,California
+ORD1194,CUST084,,85.0,Alice Green,Not Available,Oregon
+ORD1195,CUST198,,99.99,Fred Stone,Not Available,Washington
+ORD1196,CUST107,,99.99,Bob White,user106@email.com,Oregon
+ORD1197,CUST185,,150.0,Charlie Tan,user184@email.com,Oregon
+ORD1198,CUST020,,120.0,Bob White,Not Available,California
+ORD1199,CUST195,,150.0,Alice Green,Not Available,Washington
+ORD1200,CUST030,,120.0,Dana Blue,Not Available,Ca
+ORD1201,CUST193,,120.0,Charlie Tan,user192@email.com,Ca
+ORD1202,CUST047,,150.0,Dana Blue,user46@email.com,Washington
+ORD1203,CUST019,,85.0,Eve Gray,Not Available,Ca
+ORD1204,UNKNOWN,,99.99,,,
+ORD1205,CUST090,,85.0,Bob White,user89@email.com,Oregon
+ORD1206,UNKNOWN,,120.0,,,
+ORD1207,CUST142,,200.0,Bob White,user141@email.com,Oregon
+ORD1208,CUST061,,120.0,Fred Stone,user60@email.com,Or
+ORD1209,CUST125,,120.0,Alice Green,user124@email.com,Washington
+ORD1210,CUST101,,150.0,Bob White,Not Available,Washington
+ORD1211,CUST080,,120.0,Alice Green,user79@email.com,Oregon
+ORD1212,UNKNOWN,,120.0,,,
+ORD1213,UNKNOWN,,99.99,,,
+ORD1214,CUST117,,150.0,Charlie Tan,Not Available,Ca
+ORD1215,CUST046,2025-01-20,150.0,Fred Stone,Not Available,California
+ORD1216,CUST139,,120.0,Bob White,Not Available,Or
+ORD1217,UNKNOWN,,120.0,,,
+ORD1218,CUST001,2025-02-27,120.0,Dana Blue,Not Available,Oregon
+ORD1219,CUST184,,150.0,Bob White,Not Available,Ca
+ORD1220,UNKNOWN,,85.0,,,
+ORD1221,CUST107,,99.99,Bob White,user106@email.com,Oregon
+ORD1222,UNKNOWN,,85.0,,,
+ORD1223,CUST140,,99.99,Charlie Tan,user139@email.com,Ca
+ORD1224,CUST146,,120.0,Dana Blue,Not Available,California
+ORD1225,CUST135,,200.0,Eve Gray,Not Available,Washington
+ORD1226,CUST073,,120.0,Alice Green,user72@email.com,California
+ORD1227,CUST011,,85.0,Fred Stone,user10@email.com,Oregon
+ORD1228,CUST133,,200.0,Charlie Tan,user132@email.com,California
+ORD1229,CUST066,,85.0,Fred Stone,Not Available,Or
+ORD1230,UNKNOWN,,120.0,,,
+ORD1231,CUST907,,99.99,,,
+ORD1232,UNKNOWN,,85.0,,,
+ORD1233,CUST168,,200.0,Charlie Tan,Not Available,Ca
+ORD1234,UNKNOWN,2025-01-08,120.0,,,
+ORD1235,UNKNOWN,,150.0,,,
+ORD1236,UNKNOWN,,200.0,,,
+ORD1237,CUST140,,200.0,Charlie Tan,user139@email.com,Ca
+ORD1238,CUST057,,85.0,Charlie Tan,user56@email.com,Washington
+ORD1239,CUST059,,99.99,Charlie Tan,Not Available,Oregon
+ORD1240,CUST087,,150.0,Eve Gray,Not Available,Oregon
+ORD1241,CUST085,,150.0,Charlie Tan,user84@email.com,Oregon
+ORD1242,CUST055,,120.0,Alice Green,Not Available,Ca
+ORD1243,CUST021,,150.0,Fred Stone,Not Available,Washington
+ORD1244,CUST089,,150.0,Charlie Tan,user88@email.com,Washington
+ORD1245,CUST185,,200.0,Charlie Tan,user184@email.com,Oregon
+ORD1246,CUST135,,150.0,Eve Gray,Not Available,Washington
+ORD1247,CUST177,2025-02-01,120.0,Fred Stone,user176@email.com,California
+ORD1248,UNKNOWN,,120.0,,,
+ORD1249,CUST125,,120.0,Alice Green,user124@email.com,Washington
+ORD1250,UNKNOWN,,120.0,,,
+ORD1251,UNKNOWN,,120.0,,,
+ORD1252,UNKNOWN,,99.99,,,
+ORD1253,CUST057,2025-02-27,99.99,Charlie Tan,user56@email.com,Washington
+ORD1254,CUST108,,120.0,Fred Stone,Not Available,Washington
+ORD1255,CUST001,,200.0,Dana Blue,Not Available,Oregon
+ORD1256,CUST052,,120.0,Fred Stone,Not Available,California
+ORD1257,CUST090,,200.0,Bob White,user89@email.com,Oregon
+ORD1258,CUST118,,85.0,Dana Blue,user117@email.com,Oregon
+ORD1259,CUST132,,99.99,Fred Stone,user131@email.com,Ca
+ORD1260,UNKNOWN,,120.0,,,
+ORD1261,CUST093,,85.0,Charlie Tan,user92@email.com,Washington
+ORD1262,UNKNOWN,,200.0,,,
+ORD1263,CUST090,,99.99,Bob White,user89@email.com,Oregon
+ORD1264,CUST041,2025-02-28,120.0,Fred Stone,Not Available,Washington
+ORD1265,CUST095,,150.0,Charlie Tan,Not Available,Oregon
+ORD1266,CUST177,,200.0,Fred Stone,user176@email.com,California
+ORD1267,CUST159,,120.0,Alice Green,Not Available,Ca
+ORD1268,CUST028,,120.0,Charlie Tan,user27@email.com,Oregon
+ORD1269,CUST013,,120.0,Dana Blue,user12@email.com,Washington
+ORD1270,CUST101,,120.0,Bob White,Not Available,Washington
+ORD1271,UNKNOWN,,150.0,,,
+ORD1272,CUST127,,150.0,Dana Blue,user126@email.com,Oregon
+ORD1273,UNKNOWN,,120.0,,,
+ORD1274,CUST068,,120.0,Charlie Tan,user67@email.com,Washington
+ORD1275,CUST162,,99.99,Fred Stone,Not Available,Washington
+ORD1276,CUST149,,120.0,Bob White,Not Available,Washington
+ORD1277,CUST135,,200.0,Eve Gray,Not Available,Washington
+ORD1278,CUST042,2025-02-13,150.0,Bob White,Not Available,Washington
+ORD1279,CUST036,,150.0,Fred Stone,Not Available,Washington
+ORD1280,CUST004,,120.0,Bob White,Not Available,Washington
+ORD1281,CUST045,2025-01-06,85.0,Bob White,user44@email.com,Oregon
+ORD1282,CUST907,,99.99,,,
+ORD1283,UNKNOWN,,150.0,,,
+ORD1284,CUST168,,120.0,Charlie Tan,Not Available,Ca
+ORD1285,CUST012,,120.0,Dana Blue,Not Available,Or
+ORD1286,CUST089,,200.0,Charlie Tan,user88@email.com,Washington
+ORD1287,CUST127,,120.0,Dana Blue,user126@email.com,Oregon
+ORD1288,CUST035,,200.0,Bob White,Not Available,Oregon
+ORD1289,CUST137,,120.0,Dana Blue,user136@email.com,Washington
+ORD1290,CUST099,,120.0,Fred Stone,Not Available,Or
+ORD1291,CUST045,,99.99,Bob White,user44@email.com,Oregon
+ORD1292,CUST132,,200.0,Fred Stone,user131@email.com,Ca
+ORD1293,CUST002,,120.0,Fred Stone,Not Available,Washington
+ORD1294,CUST149,,120.0,Bob White,Not Available,Washington
+ORD1295,UNKNOWN,,150.0,,,
+ORD1296,CUST155,,150.0,Fred Stone,Not Available,California
+ORD1297,CUST019,,120.0,Eve Gray,Not Available,Ca
+ORD1298,CUST089,2025-02-17,120.0,Charlie Tan,user88@email.com,Washington
+ORD1299,CUST029,,150.0,Charlie Tan,Not Available,Ca

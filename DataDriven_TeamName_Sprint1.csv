@@ -1,0 +1,301 @@
+Order_ID,Customer_ID_Masked,Order_Date,Total_Sales,Customer_Name,Email_Masked,State
+ORD1000,C195,2025-01-13,,Alice Green,c195@redacted.local,Washington
+ORD1001,,2025-01-13,,,,
+ORD1002,,,150.0,,,
+ORD1003,C184,,85.0,Bob White,c184@redacted.local,Ca
+ORD1004,C168,2025-02-12,120.0,Charlie Tan,c168@redacted.local,Ca
+ORD1005,C028,2025-01-08,200.0,Charlie Tan,c028@redacted.local,Oregon
+ORD1006,C096,,200.0,Alice Green,c096@redacted.local,Oregon
+ORD1007,C041,2025-02-08,200.0,Fred Stone,c041@redacted.local,Washington
+ORD1008,,2025-01-13,85.0,,,
+ORD1009,C085,,85.0,Charlie Tan,c085@redacted.local,Oregon
+ORD1010,C010,2025-01-13,99.99,Eve Gray,c010@redacted.local,Oregon
+ORD1011,C078,2025-01-13,,Eve Gray,c078@redacted.local,Oregon
+ORD1012,C198,2025-01-11,99.99,Fred Stone,c198@redacted.local,Washington
+ORD1013,C047,,85.0,Dana Blue,c047@redacted.local,Washington
+ORD1014,,2025-02-22,,,,
+ORD1015,C155,,,Fred Stone,c155@redacted.local,California
+ORD1016,,2025-01-13,150.0,,,
+ORD1017,,2025-01-13,,,,
+ORD1018,C089,,,Charlie Tan,c089@redacted.local,Washington
+ORD1019,,,200.0,,,
+ORD1020,C191,,,Charlie Tan,c191@redacted.local,Washington
+ORD1021,C199,2025-01-13,85.0,Fred Stone,c199@redacted.local,Ca
+ORD1022,C110,2025-01-13,,Eve Gray,c110@redacted.local,Oregon
+ORD1023,,,99.99,,,
+ORD1024,C140,2025-01-13,200.0,Charlie Tan,c140@redacted.local,Ca
+ORD1025,,2025-02-07,200.0,,,
+ORD1026,C027,2025-01-02,,Fred Stone,c027@redacted.local,Washington
+ORD1027,C055,2025-01-13,120.0,Alice Green,c055@redacted.local,Ca
+ORD1028,,,150.0,,,
+ORD1029,C194,2025-01-13,120.0,Alice Green,c194@redacted.local,Oregon
+ORD1030,C118,2025-01-13,,Dana Blue,c118@redacted.local,Oregon
+ORD1031,C107,,,Bob White,c107@redacted.local,Oregon
+ORD1032,C148,,,Eve Gray,c148@redacted.local,Washington
+ORD1033,C010,,200.0,Eve Gray,c010@redacted.local,Oregon
+ORD1034,C119,,150.0,Charlie Tan,c119@redacted.local,Ca
+ORD1035,,2025-02-18,150.0,,,
+ORD1036,,,120.0,,,
+ORD1037,C101,2025-02-28,120.0,Bob White,c101@redacted.local,Washington
+ORD1038,C169,2025-01-13,99.99,Charlie Tan,c169@redacted.local,Oregon
+ORD1039,,2025-01-13,150.0,,,
+ORD1040,C027,,200.0,Fred Stone,c027@redacted.local,Washington
+ORD1041,,2025-01-13,200.0,,,
+ORD1042,C192,,200.0,Dana Blue,c192@redacted.local,Oregon
+ORD1043,C013,2025-02-16,99.99,Dana Blue,c013@redacted.local,Washington
+ORD1044,,2025-02-20,99.99,,,
+ORD1045,C123,2025-01-13,,Charlie Tan,c123@redacted.local,California
+ORD1046,C135,2025-02-24,85.0,Eve Gray,c135@redacted.local,Washington
+ORD1047,C044,2025-02-21,150.0,Fred Stone,c044@redacted.local,Or
+ORD1048,C020,2025-02-26,200.0,Bob White,c020@redacted.local,California
+ORD1049,C177,2025-01-13,120.0,Fred Stone,c177@redacted.local,California
+ORD1050,,2025-01-13,,,,
+ORD1051,C045,,,Bob White,c045@redacted.local,Oregon
+ORD1052,C123,2025-01-07,120.0,Charlie Tan,c123@redacted.local,California
+ORD1053,C127,,85.0,Dana Blue,c127@redacted.local,Oregon
+ORD1054,C089,,150.0,Charlie Tan,c089@redacted.local,Washington
+ORD1055,C119,2025-02-08,,Charlie Tan,c119@redacted.local,Ca
+ORD1056,C104,2025-01-18,,Dana Blue,c104@redacted.local,Or
+ORD1057,C184,2025-01-04,,Bob White,c184@redacted.local,Ca
+ORD1058,C038,2025-01-13,150.0,Fred Stone,c038@redacted.local,Oregon
+ORD1059,C140,2025-01-13,150.0,Charlie Tan,c140@redacted.local,Ca
+ORD1060,C045,2025-01-13,150.0,Bob White,c045@redacted.local,Oregon
+ORD1061,C083,,85.0,Alice Green,c083@redacted.local,Or
+ORD1062,C135,2025-02-27,120.0,Eve Gray,c135@redacted.local,Washington
+ORD1063,C056,,150.0,Alice Green,c056@redacted.local,Washington
+ORD1064,,2025-01-26,150.0,,,
+ORD1065,C062,,85.0,Eve Gray,c062@redacted.local,Or
+ORD1066,C149,2025-01-13,150.0,Bob White,c149@redacted.local,Washington
+ORD1067,C012,2025-01-13,99.99,Dana Blue,c012@redacted.local,Or
+ORD1068,,2025-01-28,120.0,,,
+ORD1069,,,200.0,,,
+ORD1070,,2025-03-01,200.0,,,
+ORD1071,C091,2025-01-13,,Alice Green,c091@redacted.local,Oregon
+ORD1072,C200,2025-01-13,99.99,Dana Blue,c200@redacted.local,California
+ORD1073,,2025-01-13,120.0,,,
+ORD1074,C199,2025-02-16,99.99,Fred Stone,c199@redacted.local,Ca
+ORD1075,C012,2025-01-13,150.0,Dana Blue,c012@redacted.local,Or
+ORD1076,C041,2025-01-14,,Fred Stone,c041@redacted.local,Washington
+ORD1077,,2025-01-17,99.99,,,
+ORD1078,C047,,150.0,Dana Blue,c047@redacted.local,Washington
+ORD1079,C184,2025-01-13,99.99,Bob White,c184@redacted.local,Ca
+ORD1080,C174,,99.99,Dana Blue,c174@redacted.local,Or
+ORD1081,C174,2025-01-13,85.0,Dana Blue,c174@redacted.local,Or
+ORD1082,C075,,99.99,Alice Green,c075@redacted.local,California
+ORD1083,,2025-01-06,200.0,,,
+ORD1084,,,,,,
+ORD1085,C166,2025-01-13,99.99,Eve Gray,c166@redacted.local,Washington
+ORD1086,C138,,,Fred Stone,c138@redacted.local,Or
+ORD1087,C125,2025-02-23,150.0,Alice Green,c125@redacted.local,Washington
+ORD1088,C198,2025-01-13,150.0,Fred Stone,c198@redacted.local,Washington
+ORD1089,,2025-01-13,200.0,,,
+ORD1090,,2025-01-26,150.0,,,
+ORD1091,,2025-01-13,120.0,,,
+ORD1092,C132,2025-02-03,85.0,Fred Stone,c132@redacted.local,Ca
+ORD1093,C002,2025-01-13,150.0,Fred Stone,c002@redacted.local,Washington
+ORD1094,C162,2025-01-13,,Fred Stone,c162@redacted.local,Washington
+ORD1095,,2025-01-14,150.0,,,
+ORD1096,C056,2025-01-13,200.0,Alice Green,c056@redacted.local,Washington
+ORD1097,C133,2025-02-17,,Charlie Tan,c133@redacted.local,California
+ORD1098,C185,2025-01-15,120.0,Charlie Tan,c185@redacted.local,Oregon
+ORD1099,,2025-01-13,99.99,,,
+ORD1100,C023,2025-01-14,150.0,Fred Stone,c023@redacted.local,Washington
+ORD1101,,2025-01-13,,,,
+ORD1102,C020,2025-01-13,200.0,Bob White,c020@redacted.local,California
+ORD1103,,2025-01-13,120.0,,,
+ORD1104,C019,,99.99,Eve Gray,c019@redacted.local,Ca
+ORD1105,C110,2025-01-21,,Eve Gray,c110@redacted.local,Oregon
+ORD1106,C048,,200.0,Bob White,c048@redacted.local,Washington
+ORD1107,C125,2025-02-14,200.0,Alice Green,c125@redacted.local,Washington
+ORD1108,C140,2025-01-18,,Charlie Tan,c140@redacted.local,Ca
+ORD1109,C038,2025-01-13,150.0,Fred Stone,c038@redacted.local,Oregon
+ORD1110,C127,,200.0,Dana Blue,c127@redacted.local,Oregon
+ORD1111,C047,2025-01-13,,Dana Blue,c047@redacted.local,Washington
+ORD1112,C097,,200.0,Bob White,c097@redacted.local,Oregon
+ORD1113,C178,2025-01-25,200.0,Charlie Tan,c178@redacted.local,Ca
+ORD1114,C167,2025-03-01,150.0,Eve Gray,c167@redacted.local,California
+ORD1115,,2025-03-01,,,,
+ORD1116,C014,2025-01-13,,Charlie Tan,c014@redacted.local,Washington
+ORD1117,C089,2025-01-13,99.99,Charlie Tan,c089@redacted.local,Washington
+ORD1118,,2025-02-10,,,,
+ORD1119,C049,2025-01-13,85.0,Dana Blue,c049@redacted.local,Oregon
+ORD1120,C002,2025-01-15,,Fred Stone,c002@redacted.local,Washington
+ORD1121,,2025-02-14,85.0,,,
+ORD1122,C155,2025-01-01,150.0,Fred Stone,c155@redacted.local,California
+ORD1123,C128,2025-01-25,200.0,Bob White,c128@redacted.local,Oregon
+ORD1124,,2025-01-13,85.0,,,
+ORD1125,C047,2025-01-09,200.0,Dana Blue,c047@redacted.local,Washington
+ORD1126,C146,2025-01-24,85.0,Dana Blue,c146@redacted.local,California
+ORD1127,C109,2025-01-01,200.0,Alice Green,c109@redacted.local,Oregon
+ORD1128,C089,2025-02-13,85.0,Charlie Tan,c089@redacted.local,Washington
+ORD1129,C002,2025-01-13,120.0,Fred Stone,c002@redacted.local,Washington
+ORD1130,C013,2025-01-24,200.0,Dana Blue,c013@redacted.local,Washington
+ORD1131,C175,2025-01-13,85.0,Eve Gray,c175@redacted.local,Washington
+ORD1132,C178,,120.0,Charlie Tan,c178@redacted.local,Ca
+ORD1133,,,,,,
+ORD1134,C107,2025-01-13,120.0,Bob White,c107@redacted.local,Oregon
+ORD1135,C166,2025-02-04,200.0,Eve Gray,c166@redacted.local,Washington
+ORD1136,C119,2025-02-04,99.99,Charlie Tan,c119@redacted.local,Ca
+ORD1137,C027,,,Fred Stone,c027@redacted.local,Washington
+ORD1138,C021,2025-02-28,200.0,Fred Stone,c021@redacted.local,Washington
+ORD1139,C059,2025-01-13,120.0,Charlie Tan,c059@redacted.local,Oregon
+ORD1140,,2025-02-11,99.99,,,
+ORD1141,C177,2025-02-08,99.99,Fred Stone,c177@redacted.local,California
+ORD1142,C159,,200.0,Alice Green,c159@redacted.local,Ca
+ORD1143,C170,2025-01-13,150.0,Alice Green,c170@redacted.local,Oregon
+ORD1144,C177,2025-01-13,85.0,Fred Stone,c177@redacted.local,California
+ORD1145,,,,,,
+ORD1146,C040,2025-01-09,85.0,Dana Blue,c040@redacted.local,Ca
+ORD1147,C045,2025-01-13,150.0,Bob White,c045@redacted.local,Oregon
+ORD1148,C017,,99.99,Bob White,c017@redacted.local,Oregon
+ORD1149,C155,2025-02-03,,Fred Stone,c155@redacted.local,California
+ORD1150,C175,2025-02-02,85.0,Eve Gray,c175@redacted.local,Washington
+ORD1151,,,,,,
+ORD1152,C087,,,Eve Gray,c087@redacted.local,Oregon
+ORD1153,C127,2025-01-13,85.0,Dana Blue,c127@redacted.local,Oregon
+ORD1154,,,120.0,,,
+ORD1155,,2025-01-13,,,,
+ORD1156,C184,2025-02-04,99.99,Bob White,c184@redacted.local,Ca
+ORD1157,C170,2025-02-13,99.99,Alice Green,c170@redacted.local,Oregon
+ORD1158,C197,,99.99,Bob White,c197@redacted.local,Washington
+ORD1159,,2025-01-22,,,,
+ORD1160,C161,2025-01-27,,Charlie Tan,c161@redacted.local,Washington
+ORD1161,C175,,,Eve Gray,c175@redacted.local,Washington
+ORD1162,,2025-01-01,99.99,,,
+ORD1163,C004,,,Bob White,c004@redacted.local,Washington
+ORD1164,,,200.0,,,
+ORD1165,C144,2025-02-16,150.0,Fred Stone,c144@redacted.local,Washington
+ORD1166,C067,2025-01-13,150.0,Bob White,c067@redacted.local,Oregon
+ORD1167,C184,2025-01-03,120.0,Bob White,c184@redacted.local,Ca
+ORD1168,C161,,120.0,Charlie Tan,c161@redacted.local,Washington
+ORD1169,C170,2025-01-13,99.99,Alice Green,c170@redacted.local,Oregon
+ORD1170,C161,2025-01-13,150.0,Charlie Tan,c161@redacted.local,Washington
+ORD1171,C047,,99.99,Dana Blue,c047@redacted.local,Washington
+ORD1172,,2025-01-14,99.99,,,
+ORD1173,,2025-02-08,,,,
+ORD1174,,2025-01-27,200.0,,,
+ORD1175,C019,,120.0,Eve Gray,c019@redacted.local,Ca
+ORD1176,,2025-01-13,200.0,,,
+ORD1177,,2025-01-13,120.0,,,
+ORD1178,C172,2025-01-13,200.0,Charlie Tan,c172@redacted.local,Washington
+ORD1179,C170,2025-02-11,200.0,Alice Green,c170@redacted.local,Oregon
+ORD1180,C042,2025-03-01,120.0,Bob White,c042@redacted.local,Washington
+ORD1181,C162,2025-01-13,120.0,Fred Stone,c162@redacted.local,Washington
+ORD1182,C092,2025-01-13,,Dana Blue,c092@redacted.local,Oregon
+ORD1183,,2025-02-01,150.0,,,
+ORD1184,C058,2025-01-13,,Alice Green,c058@redacted.local,California
+ORD1185,C159,2025-02-18,99.99,Alice Green,c159@redacted.local,Ca
+ORD1186,C042,2025-01-13,120.0,Bob White,c042@redacted.local,Washington
+ORD1187,,,99.99,,,
+ORD1188,C034,,200.0,Charlie Tan,c034@redacted.local,California
+ORD1189,C066,2025-01-30,150.0,Fred Stone,c066@redacted.local,Or
+ORD1190,C170,,,Alice Green,c170@redacted.local,Oregon
+ORD1191,C194,,99.99,Alice Green,c194@redacted.local,Oregon
+ORD1192,C050,2025-02-08,120.0,Dana Blue,c050@redacted.local,Washington
+ORD1193,C130,2025-02-14,,Fred Stone,c130@redacted.local,California
+ORD1194,C084,2025-01-15,85.0,Alice Green,c084@redacted.local,Oregon
+ORD1195,C198,,99.99,Fred Stone,c198@redacted.local,Washington
+ORD1196,C107,2025-01-29,99.99,Bob White,c107@redacted.local,Oregon
+ORD1197,C185,,150.0,Charlie Tan,c185@redacted.local,Oregon
+ORD1198,C020,,120.0,Bob White,c020@redacted.local,California
+ORD1199,C195,2025-02-01,150.0,Alice Green,c195@redacted.local,Washington
+ORD1200,C030,2025-01-13,,Dana Blue,c030@redacted.local,Ca
+ORD1201,C193,2025-01-13,120.0,Charlie Tan,c193@redacted.local,Ca
+ORD1202,C047,2025-02-20,150.0,Dana Blue,c047@redacted.local,Washington
+ORD1203,C019,2025-01-13,85.0,Eve Gray,c019@redacted.local,Ca
+ORD1204,,2025-01-28,99.99,,,
+ORD1205,C090,,85.0,Bob White,c090@redacted.local,Oregon
+ORD1206,,,,,,
+ORD1207,C142,,200.0,Bob White,c142@redacted.local,Oregon
+ORD1208,C061,,120.0,Fred Stone,c061@redacted.local,Or
+ORD1209,C125,,120.0,Alice Green,c125@redacted.local,Washington
+ORD1210,C101,,150.0,Bob White,c101@redacted.local,Washington
+ORD1211,C080,,120.0,Alice Green,c080@redacted.local,Oregon
+ORD1212,,2025-01-13,,,,
+ORD1213,,,99.99,,,
+ORD1214,C117,2025-01-13,150.0,Charlie Tan,c117@redacted.local,Ca
+ORD1215,C046,2025-01-20,150.0,Fred Stone,c046@redacted.local,California
+ORD1216,C139,2025-01-30,,Bob White,c139@redacted.local,Or
+ORD1217,,2025-01-13,,,,
+ORD1218,C001,2025-02-27,,Dana Blue,c001@redacted.local,Oregon
+ORD1219,C184,,150.0,Bob White,c184@redacted.local,Ca
+ORD1220,,,85.0,,,
+ORD1221,C107,,99.99,Bob White,c107@redacted.local,Oregon
+ORD1222,,,85.0,,,
+ORD1223,C140,,99.99,Charlie Tan,c140@redacted.local,Ca
+ORD1224,C146,,,Dana Blue,c146@redacted.local,California
+ORD1225,C135,2025-01-13,200.0,Eve Gray,c135@redacted.local,Washington
+ORD1226,C073,,120.0,Alice Green,c073@redacted.local,California
+ORD1227,C011,,85.0,Fred Stone,c011@redacted.local,Oregon
+ORD1228,C133,2025-01-13,200.0,Charlie Tan,c133@redacted.local,California
+ORD1229,C066,,85.0,Fred Stone,c066@redacted.local,Or
+ORD1230,,2025-01-13,120.0,,,
+ORD1231,,2025-01-03,99.99,,,
+ORD1232,,,85.0,,,
+ORD1233,C168,2025-01-13,200.0,Charlie Tan,c168@redacted.local,Ca
+ORD1234,,2025-01-08,,,,
+ORD1235,,2025-01-27,150.0,,,
+ORD1236,,,200.0,,,
+ORD1237,C140,2025-02-06,200.0,Charlie Tan,c140@redacted.local,Ca
+ORD1238,C057,2025-01-13,85.0,Charlie Tan,c057@redacted.local,Washington
+ORD1239,C059,2025-01-13,99.99,Charlie Tan,c059@redacted.local,Oregon
+ORD1240,C087,2025-02-11,150.0,Eve Gray,c087@redacted.local,Oregon
+ORD1241,C085,,150.0,Charlie Tan,c085@redacted.local,Oregon
+ORD1242,C055,,120.0,Alice Green,c055@redacted.local,Ca
+ORD1243,C021,2025-01-13,150.0,Fred Stone,c021@redacted.local,Washington
+ORD1244,C089,2025-01-13,150.0,Charlie Tan,c089@redacted.local,Washington
+ORD1245,C185,,200.0,Charlie Tan,c185@redacted.local,Oregon
+ORD1246,C135,2025-01-13,150.0,Eve Gray,c135@redacted.local,Washington
+ORD1247,C177,2025-02-01,,Fred Stone,c177@redacted.local,California
+ORD1248,,2025-01-13,,,,
+ORD1249,C125,2025-02-10,120.0,Alice Green,c125@redacted.local,Washington
+ORD1250,,2025-02-21,,,,
+ORD1251,,2025-01-13,,,,
+ORD1252,,2025-01-13,99.99,,,
+ORD1253,C057,2025-02-27,99.99,Charlie Tan,c057@redacted.local,Washington
+ORD1254,C108,2025-01-13,,Fred Stone,c108@redacted.local,Washington
+ORD1255,C001,,200.0,Dana Blue,c001@redacted.local,Oregon
+ORD1256,C052,2025-01-13,120.0,Fred Stone,c052@redacted.local,California
+ORD1257,C090,2025-01-13,200.0,Bob White,c090@redacted.local,Oregon
+ORD1258,C118,,85.0,Dana Blue,c118@redacted.local,Oregon
+ORD1259,C132,,99.99,Fred Stone,c132@redacted.local,Ca
+ORD1260,,,,,,
+ORD1261,C093,2025-02-18,85.0,Charlie Tan,c093@redacted.local,Washington
+ORD1262,,2025-01-13,200.0,,,
+ORD1263,C090,2025-01-17,99.99,Bob White,c090@redacted.local,Oregon
+ORD1264,C041,2025-02-28,120.0,Fred Stone,c041@redacted.local,Washington
+ORD1265,C095,,150.0,Charlie Tan,c095@redacted.local,Oregon
+ORD1266,C177,2025-01-13,200.0,Fred Stone,c177@redacted.local,California
+ORD1267,C159,2025-01-13,,Alice Green,c159@redacted.local,Ca
+ORD1268,C028,,,Charlie Tan,c028@redacted.local,Oregon
+ORD1269,C013,,,Dana Blue,c013@redacted.local,Washington
+ORD1270,C101,2025-01-13,,Bob White,c101@redacted.local,Washington
+ORD1271,,,150.0,,,
+ORD1272,C127,2025-02-01,150.0,Dana Blue,c127@redacted.local,Oregon
+ORD1273,,,,,,
+ORD1274,C068,2025-01-13,,Charlie Tan,c068@redacted.local,Washington
+ORD1275,C162,2025-01-13,99.99,Fred Stone,c162@redacted.local,Washington
+ORD1276,C149,2025-01-13,,Bob White,c149@redacted.local,Washington
+ORD1277,C135,2025-02-22,200.0,Eve Gray,c135@redacted.local,Washington
+ORD1278,C042,2025-02-13,150.0,Bob White,c042@redacted.local,Washington
+ORD1279,C036,,150.0,Fred Stone,c036@redacted.local,Washington
+ORD1280,C004,,,Bob White,c004@redacted.local,Washington
+ORD1281,C045,2025-01-06,85.0,Bob White,c045@redacted.local,Oregon
+ORD1282,,2025-01-13,99.99,,,
+ORD1283,,2025-01-13,150.0,,,
+ORD1284,C168,,120.0,Charlie Tan,c168@redacted.local,Ca
+ORD1285,C012,2025-02-24,120.0,Dana Blue,c012@redacted.local,Or
+ORD1286,C089,,200.0,Charlie Tan,c089@redacted.local,Washington
+ORD1287,C127,,,Dana Blue,c127@redacted.local,Oregon
+ORD1288,C035,,200.0,Bob White,c035@redacted.local,Oregon
+ORD1289,C137,,120.0,Dana Blue,c137@redacted.local,Washington
+ORD1290,C099,2025-02-07,120.0,Fred Stone,c099@redacted.local,Or
+ORD1291,C045,2025-01-24,99.99,Bob White,c045@redacted.local,Oregon
+ORD1292,C132,2025-01-13,200.0,Fred Stone,c132@redacted.local,Ca
+ORD1293,C002,2025-02-21,,Fred Stone,c002@redacted.local,Washington
+ORD1294,C149,2025-01-13,,Bob White,c149@redacted.local,Washington
+ORD1295,,,150.0,,,
+ORD1296,C155,2025-01-22,150.0,Fred Stone,c155@redacted.local,California
+ORD1297,C019,,,Eve Gray,c019@redacted.local,Ca
+ORD1298,C089,2025-02-17,120.0,Charlie Tan,c089@redacted.local,Washington
+ORD1299,C029,2025-01-13,150.0,Charlie Tan,c029@redacted.local,Ca
